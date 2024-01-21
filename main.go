@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"go-JWT/controller"
-	"go-JWT/database"
-	"go-JWT/middleware"
-	"go-JWT/model"
+	"goridor/controller"
+	"goridor/database"
+	"goridor/middleware"
+	"goridor/model"
 	"log"
 
 	"github.com/gin-gonic/gin"

@@ -1,7 +1,7 @@
 package middleware
 
 import (
-	"go-JWT/helper"
+	"goridor/helper"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

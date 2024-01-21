@@ -3,7 +3,7 @@ package helper
 import (
 	"errors"
 	"fmt"
-	"go-JWT/model"
+	"goridor/model"
 	"os"
 	"strconv"
 	"strings"

@@ -1,7 +1,7 @@
 package model
 
 import (
-	"go-JWT/database"
+	"goridor/database"
 	"html"
 	"strings"
 

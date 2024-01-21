@@ -1,8 +1,8 @@
 package controller
 
 import (
-	"go-JWT/helper"
-	"go-JWT/model"
+	"goridor/helper"
+	"goridor/model"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

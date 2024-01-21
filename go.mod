@@ -1,4 +1,4 @@
-module go-JWT
+module goridor
 
 go 1.20
 
